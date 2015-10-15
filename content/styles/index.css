@@ -1,0 +1,14 @@
+#top-menu, #banner-logo, #footer, #banner-image {  
+    border: 1px dashed #000000;
+}
+
+#menu {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#menu li {
+    display: inline;
+    padding: 20px;
+}
